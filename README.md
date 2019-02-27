@@ -6,7 +6,7 @@ I'm on OSX. I use the infamous Z shell framework [oh-my-zsh](https://github.com/
 Useful Resources
 -
 1. [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
-2. [CLI Power User](https://commandlinepoweruser.com/)
+2. [CLI Power User](https://commandlinepoweruser.com/) – 💪
 3. [Z](https://github.com/rupa/z) — 😍
   
   
