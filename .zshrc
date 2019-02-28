@@ -47,9 +47,6 @@ alias sleep='pmset sleepnow'
 # please
 alias please='sudo $(fc -ln -1)'
 
-# ssh
-alias 2551cc='ssh 2551cc@sl173.web.hostpoint.ch'
-
 # colorls
 alias ls='colorls'
 alias gs='ls --gs'
