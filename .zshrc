@@ -109,7 +109,8 @@ alias Ai='open -a Adobe\ Illustrator'
 alias Ps='open -a Adobe\ Photoshop\ CC\ 2019'
 
 alias sleep='pmset sleepnow'
-alias please='sudo'
+alias sudo='sudo '
+alias please='sudo $(fc -ln -1)'
 
 alias 2551cc='ssh 2551cc@sl173.web.hostpoint.ch'
 
